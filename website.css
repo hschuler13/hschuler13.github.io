@@ -8,6 +8,7 @@ body {
   }
 
   div{
+    font-family: Georgia, 'Times New Roman', Times, serif;
     border:1px solid black;
     background-color: white;
     width: 600px;
